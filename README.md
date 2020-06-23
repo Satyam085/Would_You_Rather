@@ -1,6 +1,10 @@
-# would_you_rather
+# Would You Rather
 
 A new Flutter project.
+
+## The idea of the app is inspired by Jarblis, in his YouTube video.
+
+I have just taken the idea and database provided by him and ported it on Flutter.
 
 ## Getting Started
 
